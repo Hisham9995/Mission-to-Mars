@@ -4,7 +4,7 @@
 The purpose was to inspect and update webscraping app that can be done by using html, Splinter, BeautifulSoup, and Bootstrap. to make the app orgnized and up to date 
 
 
-![](hemisphere_image/Cerberus Hemisphere Enhanced.jpg)
+![](hemisphere_image/Schiaparelli Hemisphere Enhanced.jpg)
 
 
 ### Results
