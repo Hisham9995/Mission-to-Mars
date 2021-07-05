@@ -1,8 +1,7 @@
 # Mission-to-Mars
 
 ## purpose of this Analysis
-The purpose was to inspect and update webscraping app that can be done by using html, Splinter, BeautifulSoup, and Bootstrap. to make the app orgnized and up to date 
-
+The purpose was to inspect and update webscraping app that can be done by using html, Splinter, BeautifulSoup, and Bootstrap. to make the app organized and up to date
 
 
 
