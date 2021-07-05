@@ -9,7 +9,7 @@ The purpose was to inspect and update webscraping app that can be done by using 
 
 
   
- ![](hemisphere_image/Valles Marineris Hemisphere Enhanced.jpg)
+ ![](hemisphere_image/He.jpg)
 
 
 
